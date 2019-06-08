@@ -342,3 +342,167 @@ footer .container{
   height:20px;
   background-color: #cccccc;
 }
+
+
+/*********EDUCATION PAGE SPECIFIC STYLES********/
+.headerBanner {
+  background-color:#e1e1e1;
+  height:200px;
+  margin-top: 61px;
+  width:100%;
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#map {
+  display: flex;
+  /* justify-content: center; */
+  margin-top: 80px;
+
+}
+
+.conservationHeading {
+  background-color: #cccccc;
+  height: 45px;
+  width: 370px;
+}
+
+.conservationList {
+  background-color: #666666;
+  height: 570px;
+  margin-top: 30px;
+  width: 370px;
+}
+
+.conservationMap {
+  background-color: #555555;
+  height: 645px;
+  margin-left: 130px;
+  width: 570px;
+}
+
+#localFishing {
+  margin-top: 72px;
+}
+
+.fishingHeading {
+  margin-left: 400px;
+
+  background-color: #cccccc;
+  height: 45px;
+  width: 370px;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.fishingText {
+
+  background-color: whitesmoke;
+  margin: 38px 0 0 30px;
+  height: 105px;
+  width: 270px;
+}
+
+#conservationEdu {
+  margin-top: 98px;
+}
+
+.eduHeading {
+  background-color: #cccccc;
+  height: 45px;
+  margin-left: 400px;
+  width: 370px;
+
+}
+
+.eduContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+}
+
+.edutext {
+  background-color: whitesmoke;
+  height: 275px;
+  margin-right: 30px;
+  margin-top: 40px;
+  width: 270px;
+}
+
+
+#fishing {
+  display: flex;
+  margin-top: 90px;
+}
+
+.fishingLinksHeading {
+  background-color: #cccccc;
+  height: 45px;
+
+
+  width: 370px;
+}
+
+.fishingLeft {
+  margin-top: 60px;
+}
+
+.fishingLeftLinks {
+  background-color: whitesmoke;
+  height: 45px;
+  margin-bottom: 38px;
+  width: 270px;
+}
+
+.fishingImage {
+  background-color: #222222;
+  height: 324px;
+  margin: 38px 30px 0 30px;
+  width: 370px;
+}
+
+.fishingRight {
+  margin-top: 60px;
+}
+
+.fishingRightLinks {
+  background-color: whitesmoke;
+  height: 45px;
+  margin-bottom: 38px;
+  width: 270px;
+}
+
+#videos {
+  margin-top: 134px;
+}
+
+.videoHeading {
+  background-color: grey;
+  height: 45px;
+  margin: 0 0 50px 400px;
+  width: 370px;
+}
+
+.videoContainer {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.videoBox {
+  background-color: whitesmoke;
+  margin-right: 30px;
+  margin-bottom: 80px;
+  width: 570px;
+  height: 372px;
+}
